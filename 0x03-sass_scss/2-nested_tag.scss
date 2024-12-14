@@ -1,0 +1,13 @@
+$nomargin:0px;
+$nopadding:0px;
+$paragraphmargin:10px;
+
+body {
+    margin: $nomargin;
+    padding: $nopadding; 
+  }
+  
+  body p {
+    margin: $paragraphmargin; 
+  }
+  
