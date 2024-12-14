@@ -1,0 +1,20 @@
+# Installation Steps for SASS  
+
+1. Created a new directory:  
+   - Path: alx-intermediate-frontend/0x03-sass_scss  
+
+2. Installed Node.js (Optional):  
+   - Opened the terminal.  
+   - Ran the following command to install NVM (Node Version Manager):  
+     $ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash  
+   - Closed and reopened the terminal to apply changes.  
+
+3. Installed SASS (Optional):  
+   - Ensured Node.js was installed.  
+   - Ran the following command to install SASS:  
+     $ npm install sass -v 3.7.4  
+
+4. Verified the installation (You can add this step if you checked):  
+   - Ran the command:  
+     $ sass --version  
+   - Confirmed that SASS is correctly installed.
